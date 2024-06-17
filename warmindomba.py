@@ -12,7 +12,7 @@ st.header(":ramen: Warmindo Market Basket Analysis by Rorry!")
 st.write("""Di apps ini, anda bisa mencoba customer behaviour pada saat memesan indomie dengan rasa apa. Contoh, kalau konsumen 1 membeli indomie goreng, berapa kemungkinan mereka akan membeli indomie rasa soto betawi""")
 
 st.sidebar.info("Untuk codingnya, bisa ditemukan di my GitHub:")
-st.sidebar.link_button("GitHub Source","https://github.com/RorryMiniGunner/PinjemDong/blob/main/06_10_2024_WARMINDO_Market_Basket_Analysis.ipynb")
+st.sidebar.link_button("GitHub Source","https://github.com/RorryMiniGunner/WarmindoMBA-by-Rorry/")
 
 st.sidebar.warning("Mohon diingat!. Data yang didapat berdasarkan data dari satu warmindo saja (selama Januari - Agustus 2022). Perilaku dari konsumen di tempat lain atau situasi lain, mungkin saja berbeda")
 
