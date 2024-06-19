@@ -5,3 +5,4 @@ matlpotlib-inline==0.1.6
 mlxtend==0.23.1
 seaborn==0.12.2
 pandas==2.0.3
+streamlit==1.35.0
